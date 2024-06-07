@@ -1,0 +1,20 @@
+{
+  "candidates": [
+    {
+      "slotId": 0,
+      "name": "bran-awesome-validator",
+      "stash": "an97rAZ6oH4HdEFC34VRsdaPDS8bj9vGyqTfH1nVqBwnQBrsM",
+      "riotHandle": "@noreply0:matrix.org",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 1,
+      "name": "a$ap-analog",
+      "stash": "an9LaA3mUQZm5UgqLzUYbohiqEGvkEzNgB472mRhARjvHjHBm",
+      "riotHandle": "@noreply1:matrix.org",
+      "skipSelfStake": true,
+      "kyc": false
+    }
+  ]
+}
