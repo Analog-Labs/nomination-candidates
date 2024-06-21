@@ -2,17 +2,137 @@
   "candidates": [
     {
       "slotId": 0,
-      "name": "bran-awesome-validator",
-      "stash": "an97rAZ6oH4HdEFC34VRsdaPDS8bj9vGyqTfH1nVqBwnQBrsM",
-      "riotHandle": "@noreply0:matrix.org",
+      "name": "Validation Cloud",
+      "stash": "an9LZjTDT7AbPDg5ZEmTmQHKVHun2hPxTkZYeFM5RbwB8b6jT",
+      "riotHandle": "movc.",
       "skipSelfStake": true,
       "kyc": false
     },
     {
       "slotId": 1,
-      "name": "a$ap-analog",
-      "stash": "an9LaA3mUQZm5UgqLzUYbohiqEGvkEzNgB472mRhARjvHjHBm",
-      "riotHandle": "@noreply1:matrix.org",
+      "name": "Allnodes",
+      "stash": "an6tn7ySntRrvWKRaxQhDe3YRnoFThmLE9HyrnzS52Yqzmz4d",
+      "riotHandle": "3eph1r0th",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 2,
+      "name": "ContributionDAO",
+      "stash": "an6mSw6sr9j9J5Jaj4gxvUtbquPWKv2efaR97TGuPaALSGsYL",
+      "riotHandle": "pongchai",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 3,
+      "name": "InfraSingularity",
+      "stash": "an9f9bFSFprrcVsxkzyJ3DXRQ2cBTBr7zc7DRJ4xhtidNgUFp",
+      "riotHandle": "idler3712",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 4,
+      "name": "GCR",
+      "stash": "an6AoqcuFn5QR4pfUpH2ZrkrnombLNdSsJR1QweAPVhi47TAP",
+      "riotHandle": "rthy",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 5,
+      "name": "lovali",
+      "stash": "an9yfZyEHuVENEsnH14ZS5FWuFiozBzbxoWZUZuhZQnF6wE4o",
+      "riotHandle": "marcotor",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 6,
+      "name": "dewhales",
+      "stash": "an8Evn8LD7svf1z8EiMVRNshLajYWEaj7jk6MgAo4jRUPF8Sv",
+      "riotHandle": "idkravitz",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 7,
+      "name": "papillon",
+      "stash": "an9nQ45DixeQBh8E45Eh1zdCtkmpa7tyJmryQhepWuYmWURPD",
+      "riotHandle": "pap_illon",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 8,
+      "name": "🍁 HIGH/STAKE 🥩 | ANAL1",
+      "stash": "an9qDsq18hdhqT9k6vjqZE51h8joDCnurZCFS3p6UKQPHKbbi",
+      "riotHandle": "nexus2kswiss",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 9,
+      "name": "G-dot Tech",
+      "stash": "an7ifiL7Nvrj21GpVR8D272rGhfztQP6GEtfqapSDRTnUQwus",
+      "riotHandle": "anonymouspirate",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 10,
+      "name": "Bitch Tits Capital",
+      "stash": "an8UgwNdqGCK8A1DAeZPrUr19YXCUxP6jJ7vG3EmruHAQcq8D",
+      "riotHandle": "bitchtits",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 11,
+      "name": "Kintsugi",
+      "stash": "anAX9u5cX5JVTJ7oVRvFQK4CpMJDBZ8UXmHzBjTvJvHdwbinh",
+      "riotHandle": "danhwang88",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 12,
+      "name": "SolrDAO",
+      "stash": "anALkfhvKCRoGUQo4jftTwdR2qoLbKk8R4YwgQfsSRdDvQTSp",
+      "riotHandle": "hoooki3",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 13,
+      "name": "Lavender Five",
+      "stash": "an8sv3uckdgzXTpTzxNfKGkYVqAkQMrxV7guuaFrjpteuqWCP",
+      "riotHandle": "dylanschultzie",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 14,
+      "name": "Nodeinfra",
+      "stash": "an7csmfdBWadadFMqDL34x5goCiUw7f1uHW7yjrcW84HLNcBA",
+      "riotHandle": "infra_john",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 15,
+      "name": "Forbole",
+      "stash": "an89nEZjV9sJrCB57AafrX2ACD4Ejuf3tZ2mJ8Xxu3wSdBtF2",
+      "riotHandle": "michael_forbole",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 16,
+      "name": "Kysenpool",
+      "stash": "an9LCe2usU8eND2vbnHqX2TgLZaoGHS4ZHb2BxYEiNA8FL8Yw",
+      "riotHandle": "joeleiafish_kysenpool",
       "skipSelfStake": true,
       "kyc": false
     }
