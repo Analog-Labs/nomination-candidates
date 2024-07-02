@@ -84,7 +84,7 @@
       "slotId": 10,
       "name": "Bitch Tits Capital",
       "stash": "an8UgwNdqGCK8A1DAeZPrUr19YXCUxP6jJ7vG3EmruHAQcq8D",
-      "riotHandle": "bitchtits",
+      "riotHandle": "bitchtits.mayhemnodes",
       "skipSelfStake": true,
       "kyc": false
     },
@@ -133,6 +133,270 @@
       "name": "Kysenpool",
       "stash": "an9LCe2usU8eND2vbnHqX2TgLZaoGHS4ZHb2BxYEiNA8FL8Yw",
       "riotHandle": "joeleiafish_kysenpool",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 17,
+      "name": "Artifact",
+      "stash": "anAsyiypD53XmqyKVW3jEVWzQrvRKwwzpGxWoPfswKA5Ws4bd",
+      "riotHandle": "indigobreakartifact",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 18,
+      "name": "BlockFarms",
+      "stash": "5E1uhrsZ1UzbynQP3L17E7eFviw2WRXXCH2ndjuWW7iuwJNh",
+      "riotHandle": "matt@blockfarms:matrix.org",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 19,
+      "name": "Krawiec",
+      "stash": "anB1P8QYwiqH56GAndw995AR9RHDNMHTqWQCPXhWzRZQy4Nk2",
+      "riotHandle": "krawiec_stake",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 20,
+      "name": "lsj-fndc-analog-001",
+      "stash": "an8SagSYFwxAPQcGkJHSr23e3izC8pjz3vx2ekPXJWcvfKXKQ",
+      "riotHandle": 1218866479571931218,
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 21,
+      "name": "hypocrisyyf",
+      "stash": "an9FJVrYHXn8ToQ2kxDmRGyZvtkfidhKd79SEwseYGtvZd7zn",
+      "riotHandle": "@hypocrisyyf",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 22,
+      "name": "NomadValidator",
+      "stash": "an6B3CSijQCDfJ1rL4bxto2iVqfPgWLvnqdcJbaJLPWup3rap",
+      "riotHandle": "nomadval",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 23,
+      "name": "ray",
+      "stash": "anAFKCwSyx7qLaUWbrkKjjxa6auznyETyzFCRi2H9mEKQt9jk",
+      "riotHandle": "raymondzxj8659",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 24,
+      "name": "STAVR",
+      "stash": "an7hyq3UcJL27UgHFj3BDc2Jo2qNcn26eyHF7P4gbgvopYJdJ",
+      "riotHandle": "1stavr1",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 25,
+      "name": "79anvi",
+      "stash": "an7LtZknU7oBTnpHLhPxQzxRoYP9s9d7d6Rd7keYM52mC4sxM",
+      "riotHandle": "buktapabu4",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 26,
+      "name": "Pioneer",
+      "stash": "an6iVGebSszTVJmDeWs54dHExuZV7o3YChT6BfYoKTMKUTW4X",
+      "riotHandle": "iropek",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 27,
+      "name": "jamin543",
+      "stash": "anACVrV6upon561F4feoLqsaVWvdf2jQ47YFpux9iWDVhePwr",
+      "riotHandle": "jamin543",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 28,
+      "name": "Faraday",
+      "stash": "an8LveLgKEcPGy893QtPzuUD2RgL1Xz2TwGyyNfeiGW86yjmu",
+      "riotHandle": "faradaynodes",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 29,
+      "name": "Ruby Nodes",
+      "stash": "an7SFZ7xSXZwBuTpbyd2SZaWkWNdnNkdra3AaVZSwku21RvcW",
+      "riotHandle": "@pmensik:matrix.org",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 30,
+      "name": "ozioma chizuruoke favour",
+      "stash": "an9wCR2EHjA7h1uttjbBGRRqE1S7qsLN67mJSGfSEMJynspPZ",
+      "riotHandle": "Dango2246",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 31,
+      "name": "Serius",
+      "stash": "an8M2u1qSGyfC85WEkKnyPBcBEeLzonxwcmX232PbPPf9WfX7",
+      "riotHandle": "bimasol",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 32,
+      "name": "pjIPFGDmKz",
+      "stash": "an9KxpzxnvdfoMMmUPxp1Xrif297m9xaWQaHJTYQx17DP5pPu",
+      "riotHandle": "justin540430",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 33,
+      "name": "ROBINHOOD",
+      "stash": "anB28ZvSVsdsWa5EKhZftz9HF3Z5N3oN844ijKpKKHdc4noLf",
+      "riotHandle": "robin.hoood",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 34,
+      "name": "mango",
+      "stash": "an6QdNKoWVNYF2ZQD38NmwnYRZhb5cpZBKVa4VddHp1XqaPgP",
+      "riotHandle": "white_1019_08076",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 35,
+      "name": "tzYNPNPf",
+      "stash": "anAZWBwH2z1bh9WwfcjrMgaovHDaG4MaCSNW2GxJceEyafDYT",
+      "riotHandle": "oop08099",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 36,
+      "name": "L3asVAo0u",
+      "stash": "an65u72znJr77ir3DVWi4tcH2jkhKuFS7B6JyTYsFLpwtyTdX",
+      "riotHandle": "christinehancock6006",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 37,
+      "name": "BhbUdR6hyHzRRiybjFu",
+      "stash": "an9f4D2BoRHeRDcs8ethZVXgyiR3h3x3iYU78fdEwd3QqdG2C",
+      "riotHandle": "norrissandra7238",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 38,
+      "name": "cuongcc",
+      "stash": "an5tcrCAcCrApz1ujBDdUqMsBaGsv4WQri48jCXRWkiUf3HgF",
+      "riotHandle": "cuongcc06161",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 39,
+      "name": "UniqNodes",
+      "stash": "anBHThJo3sMZWBF2Z7ogtfmzRf4wwiXQdKf9QHQFysWGWfyQd",
+      "riotHandle": "erknfe",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 40,
+      "name": "FairStaking",
+      "stash": "an8nnNEVZXHFRDW86AjdFajLwVxHjtfT85ZDmqK5HPnwsWDpM",
+      "riotHandle": "@fairstaking:matrix.org",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 41,
+      "name": "e2BCf22NQ3H",
+      "stash": "an7cpxoutkQPYH3ZSEMztJFb2NmknnBT33V97g3bLKkhqWmBt",
+      "riotHandle": "jeffrey181420",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 42,
+      "name": "TOGLOK",
+      "stash": "an8XZK5FL61vAfeDwJUZMxpdT1iQzmn8kVT7n7uuEqefJLwzg",
+      "riotHandle": "toglok",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 43,
+      "name": "cn7UbYRHjB6oO",
+      "stash": "an6kaW59CTbM9ELdrZgUxuRH1B4BNCMLjESrfBpQNLguqwDMt",
+      "riotHandle": "april766037",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 44,
+      "name": "GAX",
+      "stash": "an6SjbzpP2DC6VUa53kUHEvXqsiSVBfiLV9fVQjCXLctuBYL3",
+      "riotHandle": "gaxmnt_17009",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 45,
+      "name": "Validatrium.com",
+      "stash": "an8V4isY54q2G64dC3pkoYjdby5KpiFj8APDec44AmJzD4E2v",
+      "riotHandle": "Igor_Validatrium",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 46,
+      "name": "Gentlemen Validators",
+      "stash": "an5dnmNtX4tLqvrLVg5wqy4JVWmsSArSq9Jrz8q5RmXHGAEG1",
+      "riotHandle": "igor_gentlemenvalidators",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 47,
+      "name": "gingercat",
+      "stash": "an8tWeLrCt3FQZwsMvMNuzzhga2WWtDJowEt1eBbSoQF7xgDp",
+      "riotHandle": "andrewroganov",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 48,
+      "name": "Andychrn",
+      "stash": "an9ZLyBTemJP785oTQPa68WemVq7aVBw3qyZ9dyJrmk9M4pzF",
+      "riotHandle": "chenone63.",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 49,
+      "name": "Vitek73",
+      "stash": "an6GUQsGG4mvZE4gUiEFsMU7PJrVUEwV9d1X4khhGDFeCzodp",
+      "riotHandle": "vitek9360",
       "skipSelfStake": true,
       "kyc": false
     }
