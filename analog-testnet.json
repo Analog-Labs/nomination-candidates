@@ -399,6 +399,14 @@
       "riotHandle": "vitek9360",
       "skipSelfStake": true,
       "kyc": false
+    },
+    {
+      "slotId": 50,
+      "name": "Noders",
+      "stash": "an6S85ytt6xqvnVNvwcQpghZ8K1pyRqmDcjVbpnGdtsPiRqdo",
+      "riotHandle": "nodersseptima",
+      "skipSelfStake": true,
+      "kyc": false
     }
   ]
 }
