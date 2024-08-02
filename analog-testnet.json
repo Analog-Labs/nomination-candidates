@@ -407,6 +407,38 @@
       "riotHandle": "nodersseptima",
       "skipSelfStake": true,
       "kyc": false
+    },
+    {
+      "slotId": 51,
+      "name": "Noderzz",
+      "stash": "an7qk3cBTMQwNVHUzCbgP4TCfe48LmMg9hxSJEGUda3kzqVSX",
+      "riotHandle": "godfrey2194",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 52,
+      "name": "Crypto Chemistry",
+      "stash": "anANLio3NQaUtyjDo4fH1h7cZ8Kw1upUSNQWdC8a8nc1ZETsV",
+      "riotHandle": "relytecrypto",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 53,
+      "name": "Leostake",
+      "stash": "anB1xyuy7Tb9hXXsqFiyWDqharGTaXAZ8g6bWsCDfBAuqEXpQ",
+      "riotHandle": "madblokus",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 54,
+      "name": "DeSpread",
+      "stash": "an6assLp4Pw2wtM82tkkqy7JKFvqqWhtfWenAtT9mYYMzTxPy",
+      "riotHandle": "devgang.eth",
+      "skipSelfStake": true,
+      "kyc": false
     }
   ]
 }
