@@ -439,6 +439,22 @@
       "riotHandle": "devgang.eth",
       "skipSelfStake": true,
       "kyc": false
+    },
+    {
+      "slotId": 55,
+      "name": "A41",
+      "stash": "an6S7gKhGsY7giyAUk825BCnXbBY7udfV6rASf1erm4LqX3M6",
+      "riotHandle": "jumanzi",
+      "skipSelfStake": true,
+      "kyc": false
+    },
+    {
+      "slotId": 56,
+      "name": "chainbase",
+      "stash": "an9tCi25sDJRbVuRZ1pjcEynZXmEUiLSa6iucv5yuaB6zpYVe",
+      "riotHandle": "formatting",
+      "skipSelfStake": true,
+      "kyc": false
     }
   ]
 }
