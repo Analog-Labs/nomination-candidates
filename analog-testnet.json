@@ -121,14 +121,6 @@
       "kyc": false
     },
     {
-      "slotId": 15,
-      "name": "Forbole",
-      "stash": "an89nEZjV9sJrCB57AafrX2ACD4Ejuf3tZ2mJ8Xxu3wSdBtF2",
-      "riotHandle": "michael_forbole",
-      "skipSelfStake": true,
-      "kyc": false
-    },
-    {
       "slotId": 16,
       "name": "Kysenpool",
       "stash": "an9LCe2usU8eND2vbnHqX2TgLZaoGHS4ZHb2BxYEiNA8FL8Yw",
